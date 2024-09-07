@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Assignment 1</string>
+    <string name="sender_name">Sender Name</string>
+    <string name="sender_email">Sender Email</string>
+    <string name="sender_phone">Sender Phone</string>
+    <string name="receiver_name">Receiver Name</string>
+    <string name="receiver_address">Receiver Address</string>
+    <string name="receiver_email">Receiver Email</string>
+    <string name="receiver_phone">Receiver Phone</string>
+    <string name="next">Next</string>
+    <string name="sender_info">Sender Information</string>
+    <string name="receiver_info">Receiver Information</string>
+</resources>
